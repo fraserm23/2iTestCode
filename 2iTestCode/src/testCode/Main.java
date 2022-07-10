@@ -5,7 +5,9 @@ public class Main {
 	public static void main(String[] args) {
 
 		//I have assumed A to be 2 and X to be 12
-		//This allows 
+		//This allows the 'run' method from the
+		//'IterateOverMultiples' class to print the
+		//'Success' statement each time it is called.
 		
 		int A = 2;
 		int X = 12;
