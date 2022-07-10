@@ -10,7 +10,7 @@ public class IterateOverMultiples {
 		
 		for(int i = 0; i < X; i++) {
 			if (multiplesOfA == X) {
-				System.out.println("X has been met. A is " +A +" and X is " +X);
+				System.out.println("Success, X has been met. A is " +A +" and X is " +X);
 				break;
 			}
 			
